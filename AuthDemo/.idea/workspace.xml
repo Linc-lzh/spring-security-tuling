@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57e184ba-4146-4dd7-8a23-d6885125e5c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1hLUuHDU3qH6Himk3tr1vhrfHsl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/linc/Documents/code/spring-security/learn-spring-security",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\spring-boot-security\src\main\resources\static" />
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\spring-boot-security\src\main\java\com\tuling\springbootsecurity\controller" />
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\spring-boot-security\src\main\resources\static\js" />
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\basicAuth\src\main\resources\static\img" />
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\basicAuth\src\main\resources\static\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuling.security.distributed.order.config" />
+      <recent name="com.tuling.security.distributed.uaa.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\basicAuth\src\main\resources\static" />
+      <recent name="D:\1教学资料\springSecurity\AuthDemo\basicAuth\src\main\resources\static\" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -X clean install" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UaaServerApplication">
+    <configuration name="BCryptDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.BCryptDemo" />
+      <module name="spring-boot-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BCryptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BCryptDemo" />
+      <module name="distributed-security-uaa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="basicAuth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.BasicAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-salary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.security.distributed.salary.SalaryResourceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.security.distributed.salary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.springbootsecurity.SpringBootSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-uaa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.security.distributed.uaa.UaaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.security.distributed.uaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UaaServerApplication" />
+        <item itemvalue="Spring Boot.SalaryResourceApplication" />
+        <item itemvalue="Application.BCryptDemo (1)" />
+        <item itemvalue="Spring Boot.BasicAuthApplication" />
+        <item itemvalue="Application.BCryptDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e184ba-4146-4dd7-8a23-d6885125e5c4" name="Default Changelist" comment="" />
+      <created>1599790086609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599790086609</updated>
+      <workItem from="1599790089577" duration="17136000" />
+      <workItem from="1599811641833" duration="4813000" />
+      <workItem from="1599817183747" duration="2900000" />
+      <workItem from="1599872802882" duration="23498000" />
+      <workItem from="1600046013893" duration="19949000" />
+      <workItem from="1600131580721" duration="7354000" />
+      <workItem from="1600151507990" duration="153000" />
+      <workItem from="1600151705399" duration="13188000" />
+      <workItem from="1600218466142" duration="21520000" />
+      <workItem from="1600306341586" duration="17786000" />
+      <workItem from="1600390749489" duration="9180000" />
+      <workItem from="1600564507299" duration="4883000" />
+      <workItem from="1600577937450" duration="386000" />
+      <workItem from="1600581790170" duration="65000" />
+      <workItem from="1600652186833" duration="1201000" />
+      <workItem from="1601259343890" duration="2901000" />
+      <workItem from="1601349294958" duration="5910000" />
+      <workItem from="1601365836940" duration="7070000" />
+      <workItem from="1601386908457" duration="3024000" />
+      <workItem from="1601428013209" duration="2018000" />
+      <workItem from="1601456808823" duration="694000" />
+      <workItem from="1602046431054" duration="140000" />
+      <workItem from="1602046587496" duration="117000" />
+      <workItem from="1602221199967" duration="3452000" />
+      <workItem from="1602579344145" duration="1702000" />
+      <workItem from="1602639748568" duration="9552000" />
+      <workItem from="1602740012127" duration="1338000" />
+      <workItem from="1602811756968" duration="8903000" />
+      <workItem from="1602930124209" duration="9162000" />
+      <workItem from="1603261897726" duration="4636000" />
+      <workItem from="1603848936926" duration="2103000" />
+      <workItem from="1604029630215" duration="5328000" />
+      <workItem from="1604037511828" duration="23000" />
+      <workItem from="1681992640293" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="getDecisionVoters()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -20,7 +20,7 @@ import javax.sql.DataSource;
 /**
  * @author Fox
  */
-//@Configuration
+@Configuration
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Autowired
@@ -75,7 +75,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/login.html","/user/login","/error.html","/session/invalid").permitAll()
                 .anyRequest().authenticated();
 
-        //http.csrf().disable();  // csrf保护关闭
+        http.csrf().disable();  // csrf保护关闭
         //  xxx/send? name=fox?id=100   refer  token
     }
 

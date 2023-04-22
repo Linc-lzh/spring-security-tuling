@@ -19,8 +19,8 @@ import javax.sql.DataSource;
 /**
  * @author Fox
  */
-@Configuration
-@EnableGlobalMethodSecurity(jsr250Enabled = true,securedEnabled = true,prePostEnabled = true)
+//@Configuration
+//@EnableGlobalMethodSecurity(jsr250Enabled = true,securedEnabled = true,prePostEnabled = true)
 public class WebSecurityConfig2 extends WebSecurityConfigurerAdapter {
 
     @Autowired
