@@ -21,11 +21,11 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -50,17 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/linc/Documents/code/spring-security/learn-spring-security",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -86,10 +76,9 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn -X clean install" />
-      <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UaaServerApplication">
+  <component name="RunManager" selected="Spring Boot.BasicAuthApplication">
     <configuration name="BCryptDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tuling.BCryptDemo" />
       <module name="spring-boot-security" />
@@ -106,6 +95,17 @@
     <configuration name="BCryptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BCryptDemo" />
       <module name="distributed-security-uaa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,15 +158,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.BasicAuthApplication" />
         <item itemvalue="Spring Boot.UaaServerApplication" />
         <item itemvalue="Spring Boot.SalaryResourceApplication" />
         <item itemvalue="Application.BCryptDemo (1)" />
-        <item itemvalue="Spring Boot.BasicAuthApplication" />
         <item itemvalue="Application.BCryptDemo" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -210,12 +209,11 @@
       <workItem from="1603848936926" duration="2103000" />
       <workItem from="1604029630215" duration="5328000" />
       <workItem from="1604037511828" duration="23000" />
-      <workItem from="1681992640293" duration="772000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

@@ -1,0 +1,6 @@
+com/tuling/security/distributed/salary/controller/MobileController.class
+com/tuling/security/distributed/salary/SalaryResourceApplication.class
+com/tuling/security/distributed/salary/controller/SalaryController.class
+com/tuling/security/distributed/salary/config/MyResourceServerConfig.class
+com/tuling/security/distributed/salary/config/MyWebSecurityConfig.class
+com/tuling/security/distributed/salary/config/TokenConfig.class
